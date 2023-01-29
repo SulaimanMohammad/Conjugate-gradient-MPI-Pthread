@@ -105,9 +105,5 @@ thread too, and we use **hyb_exchg**
 
 And we wait the threads and the MPI to continue
 
-Note: I did not have time to debug and check ( a problm with N in linear_system_alloc_and_init) or
-change the idea of **hyper_grad_conj** because I sarted so late, and couldn’t translate the report to
-french.
-
 
 
